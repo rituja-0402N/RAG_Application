@@ -32,8 +32,10 @@ npm run dev
 📄 API Endpoints
 
 GET / - Check if backend is running
-POST /query - Send a question to the AI model
-🛠️ Environment Variables
+POST /query - Send a question to the AI model![Screenshot 2025-02-07 at 11 24 39 PM](https://github.com/user-attachments/assets/80dd83d9-087f-4d1e-b066-5d47873c5bb7)
+
+🛠️ Environment Variables![Screenshot 2025-02-07 at 11 24 33 PM](https://github.com/user-attachments/assets/01489305-31ee-4a84-adf8-4e170d28e409)
+
 
 Create a .env file:
 
