@@ -10,10 +10,11 @@ This is a **Retrieval-Augmented Generation (RAG) Application** using:
 - AI-powered query handling using OpenAI / Local LLMs
 - Full-stack integration with Next.js frontend
 
-## 🛠️ Setup Instructions
+## 🛠️ Setup Instructions!
+
 
 ### 1️⃣ Install Backend Dependencies
-```bash
+
 cd backend-server
 python -m venv .venv
 source .venv/bin/activate  # Mac/Linux
