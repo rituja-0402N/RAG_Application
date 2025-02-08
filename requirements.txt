@@ -1,0 +1,11 @@
+langchain
+chromadb
+pypdf
+pytest
+langchain_chroma
+langchain_community
+langchain_openai
+uvicorn
+fastapi
+pydantic
+
